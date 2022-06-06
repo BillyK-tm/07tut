@@ -1,5 +1,7 @@
 # "React JS - React Lists and Keys"
 
+chapter 7 in the course
+
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 **Description:**
